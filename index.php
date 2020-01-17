@@ -1,5 +1,5 @@
 <?php
-
+    // Nouveau commentaire
     // Nous allons conserver en session les articles favoris de l'utilisateur (normalement en BDD)
     session_start();
 
